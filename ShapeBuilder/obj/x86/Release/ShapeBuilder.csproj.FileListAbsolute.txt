@@ -1,0 +1,77 @@
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.exe
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.exe
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.exe
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilder.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.dll
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\bin\Release\ShapeBuilderClasses.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.MainForm.resources
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\ShapeBuilder.Properties.Resources.resources
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilder\obj\x86\Release\GenerateResource.write.1.tlog

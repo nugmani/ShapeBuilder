@@ -1,0 +1,35 @@
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\ТиМарс\Documents\Visual Studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\documents\visual studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\documents\visual studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\DISCO\documents\visual studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DISCO\documents\visual studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\DISCO\documents\visual studio 2010\Projects\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+C:\Users\1\Desktop\верхотуров ИГС\Б\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.dll
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\bin\Release\ShapeBuilderClasses.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Release\ResolveAssemblyReference.cache
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.dll
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Release\ShapeBuilderClasses.pdb

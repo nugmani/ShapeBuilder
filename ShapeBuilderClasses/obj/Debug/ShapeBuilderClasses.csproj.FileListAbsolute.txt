@@ -1,0 +1,19 @@
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab1\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.pdb
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.dll
+C:\Users\DISCO\Documents\Visual Studio 2010\Projects\IGS_Lab2\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.dll
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.pdb
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.dll
+D:\Учеба\ИГС\Лаба№2\IGS_Lab4\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.pdb
+C:\Users\HOME\Desktop\проги\игс\лаб2\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.dll
+C:\Users\HOME\Desktop\проги\игс\лаб2\ShapeBuilderClasses\bin\Debug\ShapeBuilderClasses.pdb
+C:\Users\HOME\Desktop\проги\игс\лаб2\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.dll
+C:\Users\HOME\Desktop\проги\игс\лаб2\ShapeBuilderClasses\obj\Debug\ShapeBuilderClasses.pdb
